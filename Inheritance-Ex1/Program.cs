@@ -15,6 +15,7 @@ namespace InheritanceEx1
             sbi.UserInfo();
             sbi.AddCash(2000);
             sbi.Withdraw(500);
+            sbi.AddCash(600);
             sbi.Withdraw(400);
             sbi.Balance();
            
