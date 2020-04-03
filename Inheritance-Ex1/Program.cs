@@ -18,6 +18,7 @@ namespace InheritanceEx1
             sbi.AddCash(600);
             sbi.Withdraw(400);
             sbi.Balance();
+            
            
             //sbi.Name = "Nagesh "; won't work cannot access readonly
             //sbi.accountNo=818093388;  won't work cannot access readonly

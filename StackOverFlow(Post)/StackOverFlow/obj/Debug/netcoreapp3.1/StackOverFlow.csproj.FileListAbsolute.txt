@@ -1,0 +1,13 @@
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.exe
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.deps.json
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.runtimeconfig.json
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.runtimeconfig.dev.json
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.dll
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.pdb
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.csprojAssemblyReference.cache
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.csproj.CoreCompileInputs.cache
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.AssemblyInfoInputs.cache
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.AssemblyInfo.cs
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.dll
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.pdb
+C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.genruntimeconfig.cache
