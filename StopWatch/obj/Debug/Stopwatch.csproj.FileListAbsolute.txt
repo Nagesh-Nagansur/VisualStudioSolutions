@@ -1,0 +1,6 @@
+C:\Users\Snakebite\source\repos\PracticeSolutions\watch\bin\Debug\watch.exe.config
+C:\Users\Snakebite\source\repos\PracticeSolutions\watch\bin\Debug\watch.exe
+C:\Users\Snakebite\source\repos\PracticeSolutions\watch\bin\Debug\watch.pdb
+C:\Users\Snakebite\source\repos\PracticeSolutions\watch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Snakebite\source\repos\PracticeSolutions\watch\obj\Debug\watch.exe
+C:\Users\Snakebite\source\repos\PracticeSolutions\watch\obj\Debug\watch.pdb

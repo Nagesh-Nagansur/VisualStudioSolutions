@@ -1,0 +1,7 @@
+C:\Users\Snakebite\source\repos\PracticeSolutions\DateTimeANDTimeSpan\bin\Debug\DateTimeANDTimeSpan.exe.config
+C:\Users\Snakebite\source\repos\PracticeSolutions\DateTimeANDTimeSpan\bin\Debug\DateTimeANDTimeSpan.exe
+C:\Users\Snakebite\source\repos\PracticeSolutions\DateTimeANDTimeSpan\bin\Debug\DateTimeANDTimeSpan.pdb
+C:\Users\Snakebite\source\repos\PracticeSolutions\DateTimeANDTimeSpan\obj\Debug\DateTimeANDTimeSpan.csprojAssemblyReference.cache
+C:\Users\Snakebite\source\repos\PracticeSolutions\DateTimeANDTimeSpan\obj\Debug\DateTimeANDTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Snakebite\source\repos\PracticeSolutions\DateTimeANDTimeSpan\obj\Debug\DateTimeANDTimeSpan.exe
+C:\Users\Snakebite\source\repos\PracticeSolutions\DateTimeANDTimeSpan\obj\Debug\DateTimeANDTimeSpan.pdb

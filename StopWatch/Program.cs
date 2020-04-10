@@ -1,63 +1,57 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.IO;
-using System.Net.Http.Headers;
-using System.Threading;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace StopWatch
+namespace watch
 {
-   
-    class Program
+    partial class program
     {
-
+       
         static void Main(string[] args)
-        {   
-         
+        {
             Console.WriteLine("<<-To Start The StopWatch Enter start->>");
             Console.WriteLine("<<-To Stop The StopWatch Enter stop->>");
 
-    
-            var flag1 = 0;
-            var flag2 = 0;
-        here:
+            Console.WriteLine("1)start\n2)stop\n3)reset\n4)lap\n5)AllLaps");
+            var v = new watch();
             while (true)
             {
-                var a = new StopWatch();
+
+
                 var input = Console.ReadLine();
 
-                if (input == "start")
+                switch (input)
                 {
-                    flag1 = 1;
-                    a.Start();
-                }
-                else if (input == "stop" && flag2==1 || input=="stop")
-                {
-                    throw new InvalidOperationException("Invalid input please try again");
-                }
+                    case "1":
+                        v.start();
+                        break;
+                    case "2":
+                        v.stop();
+                        break;
+                    case "3":
+                        v.reset();
+                        break;
+                    case "4":
+                        v.Lap();
+                        break;
+                    case "5":
+                        v.ShowLaps();
+                        break;
+                    default:
+                        Console.WriteLine("Invalid Input");
+                        break;
 
-                
-                
-                
-                var input1 = Console.ReadLine();
-                if (input1 == "stop")
-                {
-                    flag2 = 1;
-                    a.Stop();
-
-                } else if(input1 == "start" && flag1 == 1)
-                {
-                    throw new InvalidOperationException("Invalid input please try again");
-                  
                 }
-              
-                goto here;
+               
+
+
 
             }
-     
-            
+
+
+
 
         }
-
     }
-
 }

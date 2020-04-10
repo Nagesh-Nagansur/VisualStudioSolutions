@@ -11,3 +11,16 @@ C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp
 C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.dll
 C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.pdb
 C:\Users\Snakebite\source\repos\StackOverFlow\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.genruntimeconfig.cache
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.exe
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.deps.json
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.runtimeconfig.json
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.runtimeconfig.dev.json
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.dll
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\bin\Debug\netcoreapp3.1\StackOverFlow.pdb
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.AssemblyInfoInputs.cache
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.AssemblyInfo.cs
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.dll
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.pdb
+D:\VisualStudioSolutions\StackOverFlow(Post)\StackOverFlow\obj\Debug\netcoreapp3.1\StackOverFlow.genruntimeconfig.cache

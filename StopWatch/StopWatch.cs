@@ -1,37 +1,66 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
 
-namespace StopWatch
+namespace watch
 {
-    public class StopWatch
+    partial class program
     {
-        DateTime end = new DateTime();
-        TimeSpan timespan = new TimeSpan();
-        DateTime start = new DateTime();
-        int flag1 = 0;
-        int flag2 = 0;
-
-        public void Start()
+        public class watch
         {
-            start = DateTime.Now;
-            Console.WriteLine("StopWatch Started-->");
-            Console.WriteLine(start.ToString("HH:mm:ss"));
+            Stopwatch mywatch = new Stopwatch();
+            List<TimeSpan> laps = new List<TimeSpan>();
+
+
+
+            public void start()
+            {
+                mywatch.Start();
+                Console.WriteLine(mywatch.Elapsed);
+            }
+
+            public void stop()
+            {
+                mywatch.Stop();
+                Console.WriteLine(mywatch.Elapsed);
+            }
+            public void reset()
+            {
+                mywatch.Reset();
+                Console.WriteLine(mywatch.Elapsed);
+                laps.Clear();
+            }
+            public void Lap()
+            {
+                if (mywatch.IsRunning)
+                {
+                    laps.Add(mywatch.Elapsed);
+                    Console.WriteLine(mywatch.Elapsed);
+                }
+                else
+                {
+                    Console.WriteLine("Stopwatch is stopped");
+                }
         
+            }
+            public void ShowLaps()
+            {
+
+                if (laps.Count == 0)
+                {
+                    Console.WriteLine("No laps");
+                }
+                else
+                {
+                    foreach (var content in laps)
+                    {
+                        Console.WriteLine(content);
+                    }
+
+                }
+            }
+
 
         }
-        public void Stop()
-        {
-
-
-            end = DateTime.Now;
-            timespan = (end - start);
-
-            Console.WriteLine("TimeLap-->{0}", timespan.ToString());
-            Console.WriteLine("CurrentTime-->{0}", end.ToString("HH:mm:ss"));
-           
-
-        }
-
-
     }
-
 }

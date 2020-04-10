@@ -1,0 +1,7 @@
+C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\bin\Debug\ClassAndConstructor.exe.config
+C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\bin\Debug\ClassAndConstructor.exe
+C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\bin\Debug\ClassAndConstructor.pdb
+C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.csprojAssemblyReference.cache
+C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.exe
+C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.pdb

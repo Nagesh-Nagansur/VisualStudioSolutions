@@ -1,0 +1,7 @@
+C:\Users\Snakebite\source\repos\PracticeSolutions\TypeConversion\obj\Debug\TypeConversion.csprojAssemblyReference.cache
+C:\Users\Snakebite\source\repos\PracticeSolutions\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Snakebite\source\repos\PracticeSolutions\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\Snakebite\source\repos\PracticeSolutions\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\Snakebite\source\repos\PracticeSolutions\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\Snakebite\source\repos\PracticeSolutions\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\Snakebite\source\repos\PracticeSolutions\TypeConversion\obj\Debug\TypeConversion.pdb

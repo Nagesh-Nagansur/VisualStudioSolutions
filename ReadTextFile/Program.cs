@@ -13,11 +13,11 @@ namespace ReadTextFile
         {
             var path = @"D:\Roof_Work\text.txt";
             Console.WriteLine("Write the text");
-            var example = Console.ReadLine();
-            File.WriteAllText(path,example);
+            var Read = Console.ReadLine();
+            File.WriteAllText(path, Read);
             StreamReader read = new StreamReader(path);
             var line = read.ReadToEnd();
-            var newline= line.Split(' ').ToList();
+            string[] newline = line.Split();
             var list = new List<string>();
             var list1 = new List<int>();
            foreach(var content in newline)

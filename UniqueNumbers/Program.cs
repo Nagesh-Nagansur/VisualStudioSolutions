@@ -7,14 +7,16 @@ namespace UniqueNumbers
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("<<<--Enter The Five Unique Numbers-->>>");
             var list = new List<int>();
             int i = 0;
             while (i <= 5)
             {
 
-                Console.WriteLine("<<<--Enter The Five Unique Numbers-->>>");
+             
                 var input = Console.ReadLine();
                 var input1 = Convert.ToInt32(input);
+                
 
                 if (list.Contains(input1))
                 {

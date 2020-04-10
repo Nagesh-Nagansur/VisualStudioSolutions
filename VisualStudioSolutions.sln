@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTextFile", "ReadTextFil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueNumbers", "UniqueNumbers\UniqueNumbers.csproj", "{0CF3DF32-FA74-40E5-A99A-9BDED955FDD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceEx1", "InheritanceEx1\InheritanceEx1.csproj", "{A44517FD-C3A4-442B-BBEF-EE3A9327197E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance(Banking Application)", "Inheritance-Ex1\Inheritance(Banking Application).csproj", "{A44517FD-C3A4-442B-BBEF-EE3A9327197E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice", "Practice\Practice.csproj", "{2F74D2A9-66C4-4DAB-BB13-5B142E3B1BE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A44517FD-C3A4-442B-BBEF-EE3A9327197E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A44517FD-C3A4-442B-BBEF-EE3A9327197E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A44517FD-C3A4-442B-BBEF-EE3A9327197E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F74D2A9-66C4-4DAB-BB13-5B142E3B1BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F74D2A9-66C4-4DAB-BB13-5B142E3B1BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F74D2A9-66C4-4DAB-BB13-5B142E3B1BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F74D2A9-66C4-4DAB-BB13-5B142E3B1BE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

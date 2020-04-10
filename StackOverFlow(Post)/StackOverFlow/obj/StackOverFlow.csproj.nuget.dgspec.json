@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Snakebite\\source\\repos\\StackOverFlow\\StackOverFlow\\StackOverFlow.csproj": {}
+    "D:\\VisualStudioSolutions\\StackOverFlow(Post)\\StackOverFlow\\StackOverFlow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Snakebite\\source\\repos\\StackOverFlow\\StackOverFlow\\StackOverFlow.csproj": {
+    "D:\\VisualStudioSolutions\\StackOverFlow(Post)\\StackOverFlow\\StackOverFlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Snakebite\\source\\repos\\StackOverFlow\\StackOverFlow\\StackOverFlow.csproj",
+        "projectUniqueName": "D:\\VisualStudioSolutions\\StackOverFlow(Post)\\StackOverFlow\\StackOverFlow.csproj",
         "projectName": "StackOverFlow",
-        "projectPath": "C:\\Users\\Snakebite\\source\\repos\\StackOverFlow\\StackOverFlow\\StackOverFlow.csproj",
+        "projectPath": "D:\\VisualStudioSolutions\\StackOverFlow(Post)\\StackOverFlow\\StackOverFlow.csproj",
         "packagesPath": "C:\\Users\\Snakebite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Snakebite\\source\\repos\\StackOverFlow\\StackOverFlow\\obj\\",
+        "outputPath": "D:\\VisualStudioSolutions\\StackOverFlow(Post)\\StackOverFlow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Snakebite\\AppData\\Roaming\\NuGet\\NuGet.Config",
