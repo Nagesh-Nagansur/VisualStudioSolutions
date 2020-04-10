@@ -1,7 +1,0 @@
-D:\VisualStudioSolutions\Inheritance-Ex1\bin\Debug\InheritanceEx1.exe.config
-D:\VisualStudioSolutions\Inheritance-Ex1\bin\Debug\InheritanceEx1.exe
-D:\VisualStudioSolutions\Inheritance-Ex1\bin\Debug\InheritanceEx1.pdb
-D:\VisualStudioSolutions\Inheritance-Ex1\obj\Debug\Inheritance(Banking Application).csprojAssemblyReference.cache
-D:\VisualStudioSolutions\Inheritance-Ex1\obj\Debug\Inheritance(Banking Application).csproj.CoreCompileInputs.cache
-D:\VisualStudioSolutions\Inheritance-Ex1\obj\Debug\InheritanceEx1.exe
-D:\VisualStudioSolutions\Inheritance-Ex1\obj\Debug\InheritanceEx1.pdb
