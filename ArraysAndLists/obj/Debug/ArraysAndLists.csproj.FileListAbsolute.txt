@@ -5,3 +5,10 @@ C:\Users\Snakebite\source\repos\PracticeSolutions\ArraysAndLists\obj\Debug\Array
 C:\Users\Snakebite\source\repos\PracticeSolutions\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
 C:\Users\Snakebite\source\repos\PracticeSolutions\ArraysAndLists\obj\Debug\ArraysAndLists.exe
 C:\Users\Snakebite\source\repos\PracticeSolutions\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
+D:\VisualStudioSolutions\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+D:\VisualStudioSolutions\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+D:\VisualStudioSolutions\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+D:\VisualStudioSolutions\ArraysAndLists\obj\Debug\ArraysAndLists.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+D:\VisualStudioSolutions\ArraysAndLists\obj\Debug\ArraysAndLists.pdb

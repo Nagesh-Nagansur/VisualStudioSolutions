@@ -5,3 +5,10 @@ C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\obj\Debug\
 C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.csproj.CoreCompileInputs.cache
 C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.exe
 C:\Users\Snakebite\source\repos\PracticeSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.pdb
+D:\VisualStudioSolutions\ClassAndConstructor\bin\Debug\ClassAndConstructor.exe.config
+D:\VisualStudioSolutions\ClassAndConstructor\bin\Debug\ClassAndConstructor.exe
+D:\VisualStudioSolutions\ClassAndConstructor\bin\Debug\ClassAndConstructor.pdb
+D:\VisualStudioSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.exe
+D:\VisualStudioSolutions\ClassAndConstructor\obj\Debug\ClassAndConstructor.pdb

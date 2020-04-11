@@ -50,6 +50,7 @@ namespace ArraysAndLists
             Console.WriteLine(result);
             Console.WriteLine("\n");
 
+           
 
 
 
@@ -95,6 +96,7 @@ namespace ArraysAndLists
             List<int> list1 = new List<int> {9,8,7,6,5,4};
             list.Add(25);
             list.AddRange(list1);
+         
             foreach (var contet in list)
             {
                 Console.WriteLine(contet);
@@ -105,11 +107,20 @@ namespace ArraysAndLists
 
             list.RemoveAt(0);
 
+          
             Console.WriteLine(list.Count());
 
             Console.WriteLine(list.IndexOf(4));
 
             Console.WriteLine(list.Contains(9));
+
+            list.Min();//4
+
+            list.Max();//9
+
+            list.Insert(0, 25);
+
+            list.InsertRange(0, list1);
 
 
 
