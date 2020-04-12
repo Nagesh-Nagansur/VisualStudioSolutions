@@ -1,7 +1,0 @@
-C:\Users\Snakebite\source\repos\PracticeSolutions\Structure\bin\Debug\Structure.exe.config
-C:\Users\Snakebite\source\repos\PracticeSolutions\Structure\bin\Debug\Structure.exe
-C:\Users\Snakebite\source\repos\PracticeSolutions\Structure\bin\Debug\Structure.pdb
-C:\Users\Snakebite\source\repos\PracticeSolutions\Structure\obj\Debug\Structure.csprojAssemblyReference.cache
-C:\Users\Snakebite\source\repos\PracticeSolutions\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
-C:\Users\Snakebite\source\repos\PracticeSolutions\Structure\obj\Debug\Structure.exe
-C:\Users\Snakebite\source\repos\PracticeSolutions\Structure\obj\Debug\Structure.pdb
