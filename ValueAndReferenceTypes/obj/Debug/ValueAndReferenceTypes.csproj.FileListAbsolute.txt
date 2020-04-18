@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe.config
+D:\VisualStudioSolutions\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe
+D:\VisualStudioSolutions\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.pdb
+D:\VisualStudioSolutions\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
+D:\VisualStudioSolutions\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb
