@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\StringClass\bin\Debug\StringClass.exe.config
+D:\VisualStudioSolutions\StringClass\bin\Debug\StringClass.exe
+D:\VisualStudioSolutions\StringClass\bin\Debug\StringClass.pdb
+D:\VisualStudioSolutions\StringClass\obj\Debug\StringClass.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\StringClass\obj\Debug\StringClass.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\StringClass\obj\Debug\StringClass.exe
+D:\VisualStudioSolutions\StringClass\obj\Debug\StringClass.pdb
