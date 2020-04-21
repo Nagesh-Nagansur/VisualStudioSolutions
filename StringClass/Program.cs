@@ -45,11 +45,7 @@ namespace StringClass
 
 
 
-            string d1 = (string)Example.Clone();
-            //    Console.WriteLine(Object.ReferenceEquals(d1, Example));
-            string d2 = string.Copy(d1);
-            //   Console.WriteLine(Object.ReferenceEquals(d2,d1));
-
+          
 
             Console.WriteLine(Example.IndexOf('a'));                //char
             Console.WriteLine(Example.IndexOf('a', 10));
