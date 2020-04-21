@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\FileAndDirectories\bin\Debug\FileAndDirectories.exe.config
+D:\VisualStudioSolutions\FileAndDirectories\bin\Debug\FileAndDirectories.exe
+D:\VisualStudioSolutions\FileAndDirectories\bin\Debug\FileAndDirectories.pdb
+D:\VisualStudioSolutions\FileAndDirectories\obj\Debug\FileAndFileInfo.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\FileAndDirectories\obj\Debug\FileAndFileInfo.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\FileAndDirectories\obj\Debug\FileAndDirectories.exe
+D:\VisualStudioSolutions\FileAndDirectories\obj\Debug\FileAndDirectories.pdb

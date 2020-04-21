@@ -9,6 +9,7 @@ namespace GuessTheNumber
         {
             Console.WriteLine("\t\t\t\t<<<-Guess The Number You Have Four Chances->>>");
             Random A = new Random();
+           
             var radno = A.Next(1, 10);
 
             int i = 1;

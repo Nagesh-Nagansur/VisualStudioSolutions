@@ -21,11 +21,13 @@ namespace ArraysAndLists
             {
                 Console.WriteLine(content);
             }
+            Console.WriteLine("\n");
 
             for (int i = 0; i < number.Length; i++)
             {
                 Console.WriteLine(number[i]);
             }
+            Console.WriteLine("\n");
 
             string[] names = new string[] { "Rakesh", "Shashi", "Akash" ,"Vinayak"};
           
@@ -34,6 +36,7 @@ namespace ArraysAndLists
                 Console.WriteLine(content);
             }
             Console.WriteLine(names.Length);
+            Console.WriteLine("\n");
 
             Console.WriteLine("Copy");
             string[] anotherName = new string[10];

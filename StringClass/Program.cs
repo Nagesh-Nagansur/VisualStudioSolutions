@@ -61,7 +61,7 @@ namespace StringClass
             Console.WriteLine(Example.EndsWith("ing"));  //ture
 
 
-            List<char> list= Example.ToList();   //doubut 
+            List<char>list= Example.ToList();  
             Console.WriteLine(list[0].GetType());
             foreach(var content in list)
             {

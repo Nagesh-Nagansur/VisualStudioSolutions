@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facebook", "Facebook\Facebo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{38AEE7B0-3EDA-4298-92A4-4F848DFEA860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTextFile", "ReadTextFile\ReadTextFile.csproj", "{C79E52BF-49C9-42CF-B26C-299D8D728579}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueNumbers", "UniqueNumbers\UniqueNumbers.csproj", "{0CF3DF32-FA74-40E5-A99A-9BDED955FDD3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndLists", "ArraysAndLists\ArraysAndLists.csproj", "{AA4FA4C4-EB46-40C7-B046-E3C3036F7007}"
@@ -16,6 +14,20 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAndConstructor", "ClassAndConstructor\ClassAndConstructor.csproj", "{FCC14E91-B290-49C1-8E1A-28B693CCE6A5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeANDTimeSpan", "..\VisualStudioSolution\DateTimeANDTimeSpan\DateTimeANDTimeSpan.csproj", "{F175EFF5-7E5B-440F-8D0B-167EAC7E0676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{6F43D847-AFF5-435F-8CCF-A37E8A5203B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeSolutions", "C:\Users\Snakebite\source\repos\PracticeSolutions\PracticeSolutions\PracticeSolutions.csproj", "{8E69E394-FA35-4CA9-B610-842CC29C84B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypeUsingStucture", "ValueTypeUsingStucture\ValueTypeUsingStucture.csproj", "{602C2131-CE98-4195-A33D-8C5FFD79517A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringClass", "StringClass\StringClass.csproj", "{71810DD1-7866-4010-AF56-D0129B5E48C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAndFileInfo", "FileAndDirectories\FileAndFileInfo.csproj", "{05FEC98C-127A-442C-85AB-9C2B7EDE16EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryAndDirectoryInfo", "DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo.csproj", "{C75F70AC-7679-405C-A80C-9DBB581DE1F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempFIleDeleter", "C:\Users\Snakebite\source\repos\TempFIleDeleter\TempFIleDeleter.csproj", "{B5E8C0E1-C220-4A29-8B13-021EAED47BD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +43,6 @@ Global
 		{38AEE7B0-3EDA-4298-92A4-4F848DFEA860}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38AEE7B0-3EDA-4298-92A4-4F848DFEA860}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38AEE7B0-3EDA-4298-92A4-4F848DFEA860}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C79E52BF-49C9-42CF-B26C-299D8D728579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C79E52BF-49C9-42CF-B26C-299D8D728579}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C79E52BF-49C9-42CF-B26C-299D8D728579}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C79E52BF-49C9-42CF-B26C-299D8D728579}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0CF3DF32-FA74-40E5-A99A-9BDED955FDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0CF3DF32-FA74-40E5-A99A-9BDED955FDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CF3DF32-FA74-40E5-A99A-9BDED955FDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +59,34 @@ Global
 		{F175EFF5-7E5B-440F-8D0B-167EAC7E0676}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F175EFF5-7E5B-440F-8D0B-167EAC7E0676}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F175EFF5-7E5B-440F-8D0B-167EAC7E0676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F43D847-AFF5-435F-8CCF-A37E8A5203B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F43D847-AFF5-435F-8CCF-A37E8A5203B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F43D847-AFF5-435F-8CCF-A37E8A5203B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F43D847-AFF5-435F-8CCF-A37E8A5203B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E69E394-FA35-4CA9-B610-842CC29C84B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E69E394-FA35-4CA9-B610-842CC29C84B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E69E394-FA35-4CA9-B610-842CC29C84B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E69E394-FA35-4CA9-B610-842CC29C84B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{602C2131-CE98-4195-A33D-8C5FFD79517A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602C2131-CE98-4195-A33D-8C5FFD79517A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602C2131-CE98-4195-A33D-8C5FFD79517A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602C2131-CE98-4195-A33D-8C5FFD79517A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71810DD1-7866-4010-AF56-D0129B5E48C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71810DD1-7866-4010-AF56-D0129B5E48C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71810DD1-7866-4010-AF56-D0129B5E48C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71810DD1-7866-4010-AF56-D0129B5E48C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FEC98C-127A-442C-85AB-9C2B7EDE16EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FEC98C-127A-442C-85AB-9C2B7EDE16EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FEC98C-127A-442C-85AB-9C2B7EDE16EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FEC98C-127A-442C-85AB-9C2B7EDE16EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75F70AC-7679-405C-A80C-9DBB581DE1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75F70AC-7679-405C-A80C-9DBB581DE1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75F70AC-7679-405C-A80C-9DBB581DE1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75F70AC-7679-405C-A80C-9DBB581DE1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E8C0E1-C220-4A29-8B13-021EAED47BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E8C0E1-C220-4A29-8B13-021EAED47BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E8C0E1-C220-4A29-8B13-021EAED47BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E8C0E1-C220-4A29-8B13-021EAED47BD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

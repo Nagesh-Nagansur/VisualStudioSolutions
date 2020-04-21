@@ -10,7 +10,7 @@ namespace UniqueNumbers
             Console.WriteLine("<<<--Enter The Five Unique Numbers-->>>");
             var list = new List<int>();
             int i = 0;
-            while (i <= 5)
+            while (i <= 4)
             {
 
              
@@ -33,7 +33,8 @@ namespace UniqueNumbers
                         {
                             Console.WriteLine(content);
                         }
-                        break;
+                     
+                       
                     }
                 }
 

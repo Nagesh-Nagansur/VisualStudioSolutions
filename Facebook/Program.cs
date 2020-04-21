@@ -15,7 +15,10 @@ namespace Facebook
                 var input = Console.ReadLine();
                 list.Add(input);
                 if (input == "")
-                {
+                { foreach(var content in list)
+                    {
+                        Console.WriteLine(content);
+                    }
                     list.RemoveAt(list.Count - 1);
                     if (list.Count> 2) 
                     {
@@ -32,7 +35,7 @@ namespace Facebook
                         Console.WriteLine("{0} and {1} Liked Your Post", list[0], list[1]);
 
                     }
-                    break;
+                   //   break;
                 }
 
 
