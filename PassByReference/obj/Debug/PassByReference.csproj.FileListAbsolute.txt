@@ -1,0 +1,6 @@
+D:\VisualStudioSolutions\PassByReference\bin\Debug\PassByReference.exe.config
+D:\VisualStudioSolutions\PassByReference\bin\Debug\PassByReference.exe
+D:\VisualStudioSolutions\PassByReference\bin\Debug\PassByReference.pdb
+D:\VisualStudioSolutions\PassByReference\obj\Debug\PassByReference.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\PassByReference\obj\Debug\PassByReference.exe
+D:\VisualStudioSolutions\PassByReference\obj\Debug\PassByReference.pdb

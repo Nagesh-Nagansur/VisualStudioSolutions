@@ -1,0 +1,6 @@
+D:\VisualStudioSolutions\OutKeyword\bin\Debug\OutKeyword.exe.config
+D:\VisualStudioSolutions\OutKeyword\bin\Debug\OutKeyword.exe
+D:\VisualStudioSolutions\OutKeyword\bin\Debug\OutKeyword.pdb
+D:\VisualStudioSolutions\OutKeyword\obj\Debug\OutKeyword.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\OutKeyword\obj\Debug\OutKeyword.exe
+D:\VisualStudioSolutions\OutKeyword\obj\Debug\OutKeyword.pdb
