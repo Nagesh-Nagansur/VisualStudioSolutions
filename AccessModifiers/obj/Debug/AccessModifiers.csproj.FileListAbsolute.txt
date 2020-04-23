@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+D:\VisualStudioSolutions\AccessModifiers\bin\Debug\AccessModifiers.exe
+D:\VisualStudioSolutions\AccessModifiers\bin\Debug\AccessModifiers.pdb
+D:\VisualStudioSolutions\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\AccessModifiers\obj\Debug\AccessModifiers.exe
+D:\VisualStudioSolutions\AccessModifiers\obj\Debug\AccessModifiers.pdb
+D:\VisualStudioSolutions\AccessModifiers\obj\Debug\AccessModifiers.csprojAssemblyReference.cache
