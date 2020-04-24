@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\Modifiers\bin\Debug\Modifiers.exe.config
+D:\VisualStudioSolutions\Modifiers\bin\Debug\Modifiers.exe
+D:\VisualStudioSolutions\Modifiers\bin\Debug\Modifiers.pdb
+D:\VisualStudioSolutions\Modifiers\obj\Debug\Modifiers.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\Modifiers\obj\Debug\Modifiers.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\Modifiers\obj\Debug\Modifiers.exe
+D:\VisualStudioSolutions\Modifiers\obj\Debug\Modifiers.pdb
