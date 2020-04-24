@@ -38,10 +38,8 @@ namespace GuessTheNumber
                 {
                     Console.WriteLine("\t\t\t\t<<<-You Lost The Game->>>");
                 }
-                //Console.WriteLine(A);
-                //Console.WriteLine(radno);
+              
                 i += 1;
-
 
             }
         }
