@@ -4,3 +4,4 @@ D:\VisualStudioSolutions\Inheritance\bin\Debug\Inheritance.pdb
 D:\VisualStudioSolutions\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
 D:\VisualStudioSolutions\Inheritance\obj\Debug\Inheritance.exe
 D:\VisualStudioSolutions\Inheritance\obj\Debug\Inheritance.pdb
+D:\VisualStudioSolutions\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache

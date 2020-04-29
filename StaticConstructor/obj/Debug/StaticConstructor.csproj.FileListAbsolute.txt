@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\StaticConstructor\bin\Debug\StaticConstructor.exe.config
+D:\VisualStudioSolutions\StaticConstructor\bin\Debug\StaticConstructor.exe
+D:\VisualStudioSolutions\StaticConstructor\bin\Debug\StaticConstructor.pdb
+D:\VisualStudioSolutions\StaticConstructor\obj\Debug\StaticConstructor.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\StaticConstructor\obj\Debug\StaticConstructor.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\StaticConstructor\obj\Debug\StaticConstructor.exe
+D:\VisualStudioSolutions\StaticConstructor\obj\Debug\StaticConstructor.pdb

@@ -8,13 +8,14 @@ namespace Inheritance
 {
     public class Logger
     {
-     
+    
         public void log(string msg)
         {
+         
             Console.WriteLine(msg);
-        }
 
-  
+        }
+       
 
         
     }
@@ -44,6 +45,8 @@ namespace Inheritance
             db.Migrate();
             var install = new Installer();
             install.installer();
+          
+
 
         }
     }

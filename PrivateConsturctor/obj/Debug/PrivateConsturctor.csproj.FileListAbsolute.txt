@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\PrivateConsturctor\bin\Debug\PrivateConsturctor.exe.config
+D:\VisualStudioSolutions\PrivateConsturctor\bin\Debug\PrivateConsturctor.exe
+D:\VisualStudioSolutions\PrivateConsturctor\bin\Debug\PrivateConsturctor.pdb
+D:\VisualStudioSolutions\PrivateConsturctor\obj\Debug\PrivateConsturctor.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\PrivateConsturctor\obj\Debug\PrivateConsturctor.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\PrivateConsturctor\obj\Debug\PrivateConsturctor.exe
+D:\VisualStudioSolutions\PrivateConsturctor\obj\Debug\PrivateConsturctor.pdb

@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\InheritanceEg-1\bin\Debug\InheritanceEg-1.exe.config
+D:\VisualStudioSolutions\InheritanceEg-1\bin\Debug\InheritanceEg-1.exe
+D:\VisualStudioSolutions\InheritanceEg-1\bin\Debug\InheritanceEg-1.pdb
+D:\VisualStudioSolutions\InheritanceEg-1\obj\Debug\InheritanceEg-1.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\InheritanceEg-1\obj\Debug\InheritanceEg-1.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\InheritanceEg-1\obj\Debug\InheritanceEg-1.exe
+D:\VisualStudioSolutions\InheritanceEg-1\obj\Debug\InheritanceEg-1.pdb
