@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\CompositionEg-1\bin\Debug\CompositionEg-1.exe.config
+D:\VisualStudioSolutions\CompositionEg-1\bin\Debug\CompositionEg-1.exe
+D:\VisualStudioSolutions\CompositionEg-1\bin\Debug\CompositionEg-1.pdb
+D:\VisualStudioSolutions\CompositionEg-1\obj\Debug\CompositionEg-1.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\CompositionEg-1\obj\Debug\CompositionEg-1.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\CompositionEg-1\obj\Debug\CompositionEg-1.exe
+D:\VisualStudioSolutions\CompositionEg-1\obj\Debug\CompositionEg-1.pdb
