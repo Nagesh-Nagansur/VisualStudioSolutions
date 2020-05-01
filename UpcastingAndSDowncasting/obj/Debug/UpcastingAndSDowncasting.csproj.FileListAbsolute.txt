@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\UpcastingAndSDowncasting\bin\Debug\UpcastingAndSDowncasting.exe.config
+D:\VisualStudioSolutions\UpcastingAndSDowncasting\bin\Debug\UpcastingAndSDowncasting.exe
+D:\VisualStudioSolutions\UpcastingAndSDowncasting\bin\Debug\UpcastingAndSDowncasting.pdb
+D:\VisualStudioSolutions\UpcastingAndSDowncasting\obj\Debug\UpcastingAndSDowncasting.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\UpcastingAndSDowncasting\obj\Debug\UpcastingAndSDowncasting.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\UpcastingAndSDowncasting\obj\Debug\UpcastingAndSDowncasting.exe
+D:\VisualStudioSolutions\UpcastingAndSDowncasting\obj\Debug\UpcastingAndSDowncasting.pdb

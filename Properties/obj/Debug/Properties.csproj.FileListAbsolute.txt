@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\Properties\bin\Debug\Properties.exe.config
+D:\VisualStudioSolutions\Properties\bin\Debug\Properties.exe
+D:\VisualStudioSolutions\Properties\bin\Debug\Properties.pdb
+D:\VisualStudioSolutions\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\Properties\obj\Debug\Properties.exe
+D:\VisualStudioSolutions\Properties\obj\Debug\Properties.pdb
