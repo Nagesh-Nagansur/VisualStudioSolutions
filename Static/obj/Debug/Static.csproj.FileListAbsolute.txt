@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\Static\bin\Debug\Static.exe.config
+D:\VisualStudioSolutions\Static\bin\Debug\Static.exe
+D:\VisualStudioSolutions\Static\bin\Debug\Static.pdb
+D:\VisualStudioSolutions\Static\obj\Debug\Static.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\Static\obj\Debug\Static.exe
+D:\VisualStudioSolutions\Static\obj\Debug\Static.pdb

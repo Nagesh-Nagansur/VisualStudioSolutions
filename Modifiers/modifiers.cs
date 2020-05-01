@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Modifiers
 {
- public   class modifiers
+  public class modifiers
     {
        
         public void Public()

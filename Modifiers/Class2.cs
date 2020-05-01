@@ -8,12 +8,12 @@ namespace Modifiers
 {
     class Class2 :modifiers
     {
-     
 
        Class2 c = new Class2();
 
         public void Print()
         {
+          
             c.Public();
             c.Internal();
             c.ProtectedInternal();

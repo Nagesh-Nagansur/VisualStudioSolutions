@@ -13,7 +13,7 @@ namespace Modifiers
         {
             m.Public();
             m.Internal();
-            m.ProtectedInternal();
+            m.ProtectedInternal(); 
             //m.protected();
             // m.Private();
         }
