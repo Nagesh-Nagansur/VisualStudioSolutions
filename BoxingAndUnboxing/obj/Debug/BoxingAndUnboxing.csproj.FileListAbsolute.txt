@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe.config
+D:\VisualStudioSolutions\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe
+D:\VisualStudioSolutions\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.pdb
+D:\VisualStudioSolutions\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.exe
+D:\VisualStudioSolutions\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.pdb
