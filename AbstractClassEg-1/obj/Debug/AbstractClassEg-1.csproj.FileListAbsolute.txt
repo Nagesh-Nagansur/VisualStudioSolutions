@@ -1,0 +1,6 @@
+D:\VisualStudioSolutions\AbstractClassEg-1\bin\Debug\AbstractClassEg-1.exe.config
+D:\VisualStudioSolutions\AbstractClassEg-1\bin\Debug\AbstractClassEg-1.exe
+D:\VisualStudioSolutions\AbstractClassEg-1\bin\Debug\AbstractClassEg-1.pdb
+D:\VisualStudioSolutions\AbstractClassEg-1\obj\Debug\AbstractClassEg-1.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\AbstractClassEg-1\obj\Debug\AbstractClassEg-1.exe
+D:\VisualStudioSolutions\AbstractClassEg-1\obj\Debug\AbstractClassEg-1.pdb

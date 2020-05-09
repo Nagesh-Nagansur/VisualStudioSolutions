@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\SealedClass\bin\Debug\SealedClass.exe.config
+D:\VisualStudioSolutions\SealedClass\bin\Debug\SealedClass.exe
+D:\VisualStudioSolutions\SealedClass\bin\Debug\SealedClass.pdb
+D:\VisualStudioSolutions\SealedClass\obj\Debug\SealedClass.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\SealedClass\obj\Debug\SealedClass.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\SealedClass\obj\Debug\SealedClass.exe
+D:\VisualStudioSolutions\SealedClass\obj\Debug\SealedClass.pdb
