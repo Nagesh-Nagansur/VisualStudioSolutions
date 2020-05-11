@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\Interfaces\obj\Debug\Interface.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\Interfaces\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\Interfaces\bin\Debug\Interfaces.exe.config
+D:\VisualStudioSolutions\Interfaces\bin\Debug\Interfaces.exe
+D:\VisualStudioSolutions\Interfaces\bin\Debug\Interfaces.pdb
+D:\VisualStudioSolutions\Interfaces\obj\Debug\Interfaces.exe
+D:\VisualStudioSolutions\Interfaces\obj\Debug\Interfaces.pdb
