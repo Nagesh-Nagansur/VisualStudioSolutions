@@ -4,7 +4,7 @@ namespace Extensibility
 {
     public class FIleLogging : ILogger
     {
-        string path = @"D:\Log";
+        string path = @"D:\Log\logs.txt";
         public void LogError(string message)
         {
            
@@ -12,7 +12,7 @@ namespace Extensibility
 
         public void LogInfo(string message)
         {
-            File.WriteAllText(path, message);
+            File.AppendAllText(path, message);
         }
     }
 }

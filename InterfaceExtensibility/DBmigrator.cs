@@ -12,12 +12,8 @@ namespace Extensibility
         public void Migrate()
         {
             _logger.LogInfo("Migrating started at {0}"+ DateTime.Now.ToString("HH:mm:ss:mm"));
-           
-            for(long i = 0; i < 1000000; i++)
-            {
-                
-            }
-            _logger.LogInfo("Migrating stoped at {0}" + DateTime.Now.ToString("HH:mm:ss:mm"));
+            
+            _logger.LogInfo("\nMigrating stoped at {0}" + DateTime.Now.ToString("HH:mm:ss:mm"));
            
 
         }
