@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\Generics\bin\Debug\Generics.exe.config
+D:\VisualStudioSolutions\Generics\bin\Debug\Generics.exe
+D:\VisualStudioSolutions\Generics\bin\Debug\Generics.pdb
+D:\VisualStudioSolutions\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\Generics\obj\Debug\Generics.exe
+D:\VisualStudioSolutions\Generics\obj\Debug\Generics.pdb
