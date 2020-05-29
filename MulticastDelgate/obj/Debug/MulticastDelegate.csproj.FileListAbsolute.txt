@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\MulticastDelgate\bin\Debug\MulticastDelgate.exe.config
+D:\VisualStudioSolutions\MulticastDelgate\bin\Debug\MulticastDelgate.exe
+D:\VisualStudioSolutions\MulticastDelgate\bin\Debug\MulticastDelgate.pdb
+D:\VisualStudioSolutions\MulticastDelgate\obj\Debug\MulticastDelegate.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\MulticastDelgate\obj\Debug\MulticastDelegate.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\MulticastDelgate\obj\Debug\MulticastDelgate.exe
+D:\VisualStudioSolutions\MulticastDelgate\obj\Debug\MulticastDelgate.pdb

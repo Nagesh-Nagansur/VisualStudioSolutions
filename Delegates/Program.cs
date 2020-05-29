@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Delegates
 {
-    class Program
+
+    public class Program
     {
         public delegate void AddDelegate(int a, int b);
         public delegate string SayhiDelegate(string a);
@@ -37,7 +38,14 @@ namespace Delegates
             //Calling methods by using delegates..
             AddDelegate ad = new AddDelegate(p.AddNums);
             SayhiDelegate Sh = new SayhiDelegate(Sayhi);
-          
+
+            //Diffrent Way of binding delegate to method.
+            SayhiDelegate Sh1 = Program.Sayhi;
+            Sh1("Rajabeta");
+            
+
+
+
             ad(100, 20);
             ad.Invoke(150, 20);      //simply works like a method
             string str=  Sh("Rakesh");

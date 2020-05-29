@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\Delegate Use\bin\Debug\Delegate Use.exe.config
+D:\VisualStudioSolutions\Delegate Use\bin\Debug\Delegate Use.exe
+D:\VisualStudioSolutions\Delegate Use\bin\Debug\Delegate Use.pdb
+D:\VisualStudioSolutions\Delegate Use\obj\Debug\Delegate Use.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\Delegate Use\obj\Debug\Delegate Use.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\Delegate Use\obj\Debug\Delegate Use.exe
+D:\VisualStudioSolutions\Delegate Use\obj\Debug\Delegate Use.pdb
