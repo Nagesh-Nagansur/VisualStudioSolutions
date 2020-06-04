@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+D:\VisualStudioSolutions\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+D:\VisualStudioSolutions\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+D:\VisualStudioSolutions\AnonymousMethod\obj\Debug\AnonymousMethod.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+D:\VisualStudioSolutions\AnonymousMethod\obj\Debug\AnonymousMethod.pdb

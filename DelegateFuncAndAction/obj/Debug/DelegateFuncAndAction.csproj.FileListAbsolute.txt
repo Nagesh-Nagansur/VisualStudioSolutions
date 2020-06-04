@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\DelegateFuncAndAction\bin\Debug\DelegateFuncAndAction.exe.config
+D:\VisualStudioSolutions\DelegateFuncAndAction\bin\Debug\DelegateFuncAndAction.exe
+D:\VisualStudioSolutions\DelegateFuncAndAction\bin\Debug\DelegateFuncAndAction.pdb
+D:\VisualStudioSolutions\DelegateFuncAndAction\obj\Debug\DelegateFuncAndAction.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\DelegateFuncAndAction\obj\Debug\DelegateFuncAndAction.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\DelegateFuncAndAction\obj\Debug\DelegateFuncAndAction.exe
+D:\VisualStudioSolutions\DelegateFuncAndAction\obj\Debug\DelegateFuncAndAction.pdb
