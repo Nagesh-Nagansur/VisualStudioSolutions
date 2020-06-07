@@ -1,0 +1,6 @@
+D:\VisualStudioSolutions\IcomparableAndIcomparer\bin\Debug\IcomparableAndIcomparer.exe.config
+D:\VisualStudioSolutions\IcomparableAndIcomparer\bin\Debug\IcomparableAndIcomparer.exe
+D:\VisualStudioSolutions\IcomparableAndIcomparer\bin\Debug\IcomparableAndIcomparer.pdb
+D:\VisualStudioSolutions\IcomparableAndIcomparer\obj\Debug\IcomparableAndIcomparer.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\IcomparableAndIcomparer\obj\Debug\IcomparableAndIcomparer.exe
+D:\VisualStudioSolutions\IcomparableAndIcomparer\obj\Debug\IcomparableAndIcomparer.pdb

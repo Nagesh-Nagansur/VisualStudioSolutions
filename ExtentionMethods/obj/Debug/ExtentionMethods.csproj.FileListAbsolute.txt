@@ -1,0 +1,7 @@
+D:\VisualStudioSolutions\ExtentionMethods\bin\Debug\ExtentionMethods.exe.config
+D:\VisualStudioSolutions\ExtentionMethods\bin\Debug\ExtentionMethods.exe
+D:\VisualStudioSolutions\ExtentionMethods\bin\Debug\ExtentionMethods.pdb
+D:\VisualStudioSolutions\ExtentionMethods\obj\Debug\ExtentionMethods.csprojAssemblyReference.cache
+D:\VisualStudioSolutions\ExtentionMethods\obj\Debug\ExtentionMethods.csproj.CoreCompileInputs.cache
+D:\VisualStudioSolutions\ExtentionMethods\obj\Debug\ExtentionMethods.exe
+D:\VisualStudioSolutions\ExtentionMethods\obj\Debug\ExtentionMethods.pdb
